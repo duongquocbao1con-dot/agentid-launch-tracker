@@ -1,0 +1,37 @@
+
+== flap_agent_curve: 70 launches seen, 59 still on the curve, 11 launched/graduated ==
+  FANG           ##..................   8.22% 0.4114/5.0 BNB   creator_score= -2  https://flap.sh/apps/agent-bonding-curve market=0xfd0d9e4AD5c9ddC07f68d7adF1aB9b0B20E798c4
+  智能时代           ##..................   7.64% 1.1534/15.083 NVDAB creator_score= -1  https://flap.sh/apps/agent-bonding-curve market=0xA52C19BE3F0c40d8cAb14bD8c8bBA27f21790b16
+  Agent os       #...................   5.52% 36.8421/666.5 BNCB  creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0xaA724c45BF9c6136C3159c3FF430B0FA23233218
+  BIBI           #...................   4.50% 29.9942/666.5 BNCB  creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0x936fc3208A5007A1fa31EAa1098ea9171869D124
+  AGENT OS       #...................   4.44% 29.6213/666.5 BNCB  creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0x9b7048C4467c5D620457Cf6D0E28e5c542e48654
+  bibi           #...................   3.96% 0.198/5.0 BNB   creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0x6dC3F9Fc73CbD09C3fE6aFf570b150ABFFE9c312
+  HEYI           #...................   3.95% 26.3488/666.5 BNCB  creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0xeddc6C5736CD9f280bE750c408D36c8d6E1a473d
+  AGENT ID人生     #...................   3.69% 0.1849/5.0 BNB   creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0x9517D114DbaEB6F191Bb0CcbDfc8cd3bde2AaD27
+  贾维斯            #...................   3.49% 23.2645/666.5 BNCB  creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0x70604C50309092fCa6d91f3C3120039Aa261bcD9
+  flapai         #...................   3.17% 0.1567/4.9383 QQQB  creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0xC878198E7CbBE4b7685Ae1F17AbD9A87686F5D49
+  bibi           ....................   2.26% 0.342/15.083 NVDAB creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0xc8A041e912c935eEb4c10D4b66900D401Dc68277
+  .ai            ....................   2.18% 0.3302/15.083 NVDAB creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0x31dC8722a4512AD6B4D25d2Fa04C7967327B0146
+  FStock         ....................   2.18% 14.5555/666.5 BNCB  creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0xDD339Fe6cB0Be740f430102e8903116e3EBcb519
+  SI             ....................   1.79% 0.09/5.0 BNB   creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0x299eA6977fa1FcD1e2E2Dedf43315ca94ef4b15d
+  FStock         ....................   1.70% 11.3432/666.5 BNCB  creator_score=  0  https://flap.sh/apps/agent-bonding-curve market=0x73D5779BB8Bc43A3d2a6214588B1195680d2379A
+
+== four_agent: 0 launches seen, 0 still on the curve, 0 launched/graduated ==
+  (nothing live right now)
+
+== gang: 43 launches seen, 42 still on the curve, 1 launched/graduated ==
+  GDOG           ###########.........  56.12% 11.2256/20.0 BNB   creator_score=  0  https://gang.fun/token/0xf050783c4f730cf93f85b79769e98834cd303c4e
+  .AI            ####................  18.31% 3.6631/20.0 BNB   creator_score=  0  https://gang.fun/token/0x6aba8bbcb81ac3340dfb71c1b420e9be985471dc
+  帮派             ####................  18.19% 3.6383/20.0 BNB   creator_score=  0  https://gang.fun/token/0x1c6edbff0df74127dfacf0f901b4c6ca3cb09963
+  BIBI           ##..................   8.87% 1.7745/20.0 BNB   creator_score=  0  https://gang.fun/token/0x93f2e236fe578d3c40a13e311a2a96635408baa8
+  GANGSTER       #...................   5.80% 1.1615/20.0 BNB   creator_score=  0  https://gang.fun/token/0x4cd5f2e857dc90cae0bf36ca5695ae525d27afae
+  GCAT           #...................   5.40% 1.0806/20.0 BNB   creator_score=  0  https://gang.fun/token/0x2470ce0ade88845013b521f13acbc25c91b4e0a6
+  帮派             #...................   4.68% 0.9372/20.0 BNB   creator_score=  0  https://gang.fun/token/0x1f5bbf5d8abef0a8cd3ff6ae111fb3bdab85e0f5
+  bibi           #...................   3.76% 0.7528/20.0 BNB   creator_score=  0  https://gang.fun/token/0xfe2ce895606ac02b989a04e759ee51dbfea070aa
+  帮派             #...................   3.14% 0.6284/20.0 BNB   creator_score=  0  https://gang.fun/token/0x0fd4d04beaf1069e22159ed8d499cebb19071dc2
+  Lazy           ....................   2.12% 0.4248/20.0 BNB   creator_score=  0  https://gang.fun/token/0xfe8791224eb9ec6f5f301114cac09cac60de4a9e
+  PEPE           ....................   0.65% 0.1301/20.0 BNB   creator_score=  0  https://gang.fun/token/0x9e304dffa79fa1cfd7c3f98bd05f553e73100e6e
+  CA             ....................   0.63% 0.1274/20.0 BNB   creator_score=  0  https://gang.fun/token/0x1ec99048c836d3d02e6a5d190e684ae3712b9473
+  BGA            ....................   0.47% 0.0951/20.0 BNB   creator_score=  0  https://gang.fun/token/0x377907fb92a66c79b4e6f237b6923e63beb81e69
+  KAIROS         ....................   0.47% 0.0951/20.0 BNB   creator_score=  0  https://gang.fun/token/0x7802c682774ec3ce331c38b0296b921e220309b6
+  奶蛙             ....................   0.31% 0.0631/20.0 BNB   creator_score=  0  https://gang.fun/token/0xf430ffc6c422d95a39429a68e02f32bf870bcfdd

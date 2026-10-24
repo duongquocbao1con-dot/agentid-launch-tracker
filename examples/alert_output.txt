@@ -1,0 +1,6 @@
+agentid-launch-tracker 0.1.0: watching gang every 15.0s (RPC: bsc-rpc.publicnode.com, rpc-bsc.48.club, bsc.publicnode.com; read-only)
+[17:19:41] NEW_LAUNCH  gang             帮派           fill=  4.68% raised=0.9372/20.0 BNB creator_score=+0 https://gang.fun/token/0x1f5bbf5d8abef0a8cd3ff6ae111fb3bdab85e0f5
+[17:19:41] NEW_LAUNCH  gang             BGA          fill=  0.47% raised=0.0951/20.0 BNB creator_score=+0 https://gang.fun/token/0x377907fb92a66c79b4e6f237b6923e63beb81e69
+[17:19:41] NEW_LAUNCH  gang             帮派           fill=  3.14% raised=0.6284/20.0 BNB creator_score=+0 https://gang.fun/token/0x0fd4d04beaf1069e22159ed8d499cebb19071dc2
+[17:19:41] NEW_LAUNCH  gang             KAIROS       fill=  0.47% raised=0.0951/20.0 BNB creator_score=+0 https://gang.fun/token/0x7802c682774ec3ce331c38b0296b921e220309b6
+[17:19:41] NEW_LAUNCH  gang             奶蛙           fill=  0.31% raised=0.0631/20.0 BNB creator_score=+0 https://gang.fun/token/0xf430ffc6c422d95a39429a68e02f32bf870bcfdd
